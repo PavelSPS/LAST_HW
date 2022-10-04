@@ -24,7 +24,7 @@ public class FirstSimpleTest {
 
     String testExpiredDate = "10/24";
 
-    String testCvv = "188";
+    String testCvv = "***";
 
     String testReceiverCard = "4149 4390 4868 9115";
 
